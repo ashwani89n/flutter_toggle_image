@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/ashwani89n/flutter_toggle_image/blob/main/Ashwani_Toggle_Picture.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ashwani89n/flutter_toggle_image/blob/master/Ashwani_Toggle_Picture.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Licecap Tool
 
